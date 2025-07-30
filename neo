@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Neo Web Studio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f0f0f;
+      color: silver;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    .hero {
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+    .hero h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    .button {
+      background-color: silver;
+      color: #0f0f0f;
+      padding: 0.8rem 1.5rem;
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 2rem;
+      gap: 2rem;
+    }
+    .feature {
+      background-color: #1f1f1f;
+      padding: 1.5rem;
+      border-radius: 10px;
+      width: 250px;
+      text-align: center;
+    }
+    footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: 0.9rem;
+      margin-top: 3rem;
+    }
+    a {
+      color: silver;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Neo Web Studio</h1>
+    <p>Affordable Websites for Small Businesses</p>
+  </header>
+
+  <section class="hero">
+    <h2>Get a Professional Website in 3 Days</h2>
+    <p>Mobile-friendly, fast, and fully customized to your business needs.</p>
+    <a href="https://wa.me/27748586950" class="button">Get Started on WhatsApp</a>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <h3>⚡ Fast Delivery</h3>
+      <p>We build and deliver in 2–3 days. No delays, no stress.</p>
+    </div>
+    <div class="feature">
+      <h3>📱 Mobile Friendly</h3>
+      <p>Your site will look great on any device, big or small.</p>
+    </div>
+    <div class="feature">
+      <h3>💬 WhatsApp Integration</h3>
+      <p>Get direct client messages with a WhatsApp chat button.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Neo Web Studio — Elevate your business online</p>
+    <p>📞 <a href="https://wa.me/27748586950">+27 74 858 6950</a></p>
+    <p>&copy; 2025. Created by Sindile Masuku</p>
+  </footer>
+</body>
+</html>
