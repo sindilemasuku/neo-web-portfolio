@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="A1FW2falsQz3E1_ggFMkYYA4aGklsY9Dq1DlviFKxxk" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Neo Web Studio</title>
   <style>
-<meta name="google-site-verification" content="A1FW2falsQz3E1_ggFMkYYA4aGklsY9Dq1DlviFKxxk" />
+
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
